@@ -1,0 +1,45 @@
+{
+  coord: {
+    lon: 151.2073,
+    lat: -33.8679
+  },
+  weather: [
+    {
+      id: 803,
+      main: "Clouds",
+      description: "broken clouds",
+      icon: "04d"
+    }
+  ],
+  base: "stations",
+  main: {
+    temp: 296.83,
+    feels_like: 297.16,
+    temp_min: 296.83,
+    temp_max: 296.83,
+    pressure: 1022,
+    humidity: 73,
+    sea_level: 1022,
+    grnd_level: 1017
+  },
+  visibility: 10000,
+  wind: {
+    speed: 4.63,
+    deg: 110
+  },
+  clouds: {
+    all: 75
+  },
+  dt: 1743060924,
+  sys: {
+    type: 2,
+    id: 2018875,
+    country: "AU",
+    sunrise: 1743019396,
+    sunset: 1743062269
+  },
+  timezone: 39600,
+  id: 2147714,
+  name: "Sydney",
+  cod: 200
+}
